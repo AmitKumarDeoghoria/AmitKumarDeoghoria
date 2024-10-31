@@ -12,7 +12,8 @@ I'm a 5th-year student at BITS Pilani. My academic and professional journey has 
 - 💡 **Motivation**: Passionate about applying my skills, continuously improving, and making impactful contributions in the tech and research fields.
 
 ### GitHub Stats
-![Amit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AmitKumarDeoghoria&show_icons=true&theme=radical)
+![Amit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AmitKumarDeoghoria&count_private=true&show_icons=true&theme=radical&include_all_commits=true)
+
 
 ### Most Used Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AmitKumarDeoghoria&layout=compact&theme=radical)
