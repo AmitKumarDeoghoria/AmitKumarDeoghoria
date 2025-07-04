@@ -1,6 +1,6 @@
 # Hi there, I'm Amit Kumar Deoghoria 👋
 
-I'm a 5th-year student at **BITS Pilani**, deeply passionate about technology, research, and problem-solving. My journey encompasses a blend of academic rigor, professional development, and impactful contributions.
+I'm a software Engineer At Goldman Sachs, deeply passionate about technology, research, and problem-solving. My journey encompasses a blend of academic rigor, professional development, and impactful contributions.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=AmitKumarDeoghoria&color=blue&style=flat)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-amitkdeoghoria-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amitkdeoghoria/)
