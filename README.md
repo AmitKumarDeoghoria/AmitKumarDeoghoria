@@ -16,7 +16,7 @@ I'm a software Engineer At Goldman Sachs, deeply passionate about technology, re
   - **Subject Matter Expert at Chegg**: Assisted students across disciplines, ensuring conceptual clarity and academic growth.
 - 🧪 **Research**: Published in a Q1 Journal—[Precision Methanol Sensing: Integrating Chemical Insights of Optical Sensors for Enhanced Detection](https://doi.org/10.1007/s10895-024-03860-0).
 - 🛠 **Skills**:
-  - **Programming & Tools**: Java, C++, Spring Boot, MongoDB, SQL, Docker, Kubernetes, REST APIs, and microservices.
+  - **Programming & Tools**: Java, C++, Spring Boot, MongoDB, SQL, Docker, Kubernetes, REST APIs, and microservices, python.
   - **Research Techniques**: Fluorescence intensity analysis, data modeling, and machine learning for optimal predictions.
 - 🧗‍♂️ **Motivation**: I thrive on learning and improving rapidly, turning ambitious goals into reality through perseverance and a growth mindset.
 - 👨‍🏫 **Mentorship**: Passionate about guiding and empowering students to excel academically and professionally.
