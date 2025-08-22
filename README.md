@@ -11,7 +11,7 @@ I'm a software Engineer At Goldman Sachs, deeply passionate about technology, re
 ## 🚀 About Me
 - 🎓 **College**: BITS Pilani (Tier-1 Institute in India)
 - 🏢 **Experience**:
-  - **Engineering Analyst at Goldman Sachs**: Contributed to migrating Futures & Options for a London-based exchange to a next-generation strategic architecture.
+  - **Engineering Analyst at Goldman Sachs**
   - **Intern at Hyphen SCS**: Optimized route planning algorithms to enhance logistics operations.
   - **Subject Matter Expert at Chegg**: Assisted students across disciplines, ensuring conceptual clarity and academic growth.
 - 🧪 **Research**: Published in a Q1 Journal—[Precision Methanol Sensing: Integrating Chemical Insights of Optical Sensors for Enhanced Detection](https://doi.org/10.1007/s10895-024-03860-0).
