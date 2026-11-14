@@ -1,6 +1,6 @@
 # Hi there, I'm Amit Kumar Deoghoria 👋
 
-I'm a software Engineer At Goldman Sachs, deeply passionate about technology, research, and problem-solving. My journey encompasses a blend of academic rigor, professional development, and impactful contributions.
+I'm a software Engineer, deeply passionate about technology, research, and problem-solving. My journey encompasses a blend of academic rigor, professional development, and impactful contributions.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=AmitKumarDeoghoria&color=blue&style=flat)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-amitkdeoghoria-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amitkdeoghoria/)
@@ -10,11 +10,6 @@ I'm a software Engineer At Goldman Sachs, deeply passionate about technology, re
 
 ## 🚀 About Me
 - 🎓 **College**: BITS Pilani (Tier-1 Institute in India)
-- 🏢 **Experience**:
-  - **Engineering Analyst at Goldman Sachs**
-  - **Intern at Hyphen SCS**: Optimized route planning algorithms to enhance logistics operations.
-  - **Subject Matter Expert at Chegg**: Assisted students across disciplines, ensuring conceptual clarity and academic growth.
-- 🧪 **Research**: Published in a Q1 Journal—[Precision Methanol Sensing: Integrating Chemical Insights of Optical Sensors for Enhanced Detection](https://doi.org/10.1007/s10895-024-03860-0).
 - 🛠 **Skills**:
   - **Programming & Tools**: Java, C++, Spring Boot, MongoDB, SQL, Docker, Kubernetes, REST APIs, and microservices, python.
   - **Research Techniques**: Fluorescence intensity analysis, data modeling, and machine learning for optimal predictions.
